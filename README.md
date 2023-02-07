@@ -1,2 +1,2 @@
 # hello-github
-my first  practice guthub repository
+my first  practice github repository
